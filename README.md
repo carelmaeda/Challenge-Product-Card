@@ -33,7 +33,6 @@ Users should be able to:
 
 Here are both views of my Project
 
-<img src="./screenshot-desktop.png" width="200" height="100">
 
 ![desktop screenshot](./screenshots/screenshot-desktop.png)
 ![mobile screenshot](./screenshots/screenshot-mobile.png)
